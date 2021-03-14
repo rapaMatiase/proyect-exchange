@@ -1,4 +1,3 @@
-# platzi-exchange
 
 ## Project setup
 ```
